@@ -1,4 +1,4 @@
-backup file title_list.php
-copy file buku_indux.php ke direktori slims/admin/modul/reporting/customs
-rename file buku_indux.php menjadi title_list.php
-selesai
+# backup file title_list.php
+# copy file buku_indux.php ke direktori slims/admin/modul/reporting/customs
+#rename file buku_indux.php menjadi title_list.php
+--------selesai------------
